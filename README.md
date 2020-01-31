@@ -25,11 +25,10 @@ Read this article: https://www.frontiersin.org/articles/10.3389/fimmu.2014.00171
 1. Add or suggest more HLA types!
 
 2. Next to each peptide sequence add the binding affinity and targeted viral gene .. for example for a peptide sequence in HLA-A\*02 you can add make it like this:
-
---------------------------------------------------------------------
-|Peptide sequence | viral gene name             | binding affinity in nM |
-|-------------------------------------------------------------------
-|GLMWLSYFI        | membrane glycoprotein | 4.2                    |
+~~~~
+Peptide sequence | viral gene name       | binding affinity in nM 
+GLMWLSYFI        | membrane glycoprotein | 4.2                    
+~~~~
 
 3. Maybe add a dosage calculator ?
 
