@@ -2,7 +2,7 @@
 ## A hypothetical, open source, DIY-able personalized peptide vaccine design against 2019-nCoV during a Zombie apocalypse. It might be interesting to test this in-vitro against a cell culture to determine what type of response there is using an ELISPOT assay.
 
 ## Disclaimer: 
-Although it is believed peptide vaccines should be safer when produced correctly than traditional vaccines, synthesizing and using your own vaccine will be deadly or worse if you make a mistake or there is any contamination. Use common sense, if you haven't knowledge and experience in protein purification and synthesis do not attempt it. To be clear it would be foolish to attempt to make and use this vaccine because let's face it --  unless you are reading this from the Wuhan exotic Mcbat-meat-shop you likely aren't getting Coronavirus. 
+Although it is believed peptide vaccines should be safer when produced correctly than traditional vaccines, synthesizing and using your own vaccine will be deadly or worse if you make a mistake or there is any contamination. This design is intended for experienced companies, scientists, or organizations to implement with adequate resources and testing facilities.
 
 ## Background
 2019-nCoV, is an emerging Coronavirus related to SARS and MERS is currently (as of January 2020). It has a lower lethality rate than SARS but appears to be spreading because symptoms take longer to develop.
