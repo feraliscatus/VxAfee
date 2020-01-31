@@ -17,7 +17,7 @@ Read this article: https://www.frontiersin.org/articles/10.3389/fimmu.2014.00171
 
 1. Select the peptides to use in the vaccine by first determining the HLA-type of the individual to be vaccinated. A person's HLA-type can be gound out by DNA testing.
 2. Synthesize the MHC I **and** MHC II peptides corresponding the the HLA type of the individual. MHC I and MHC II peptides are needed to ensure a Th1 immune response. This can be done for under $100 with the right equipment. There are many companies that can synthesize peptides cheaply (for research purposes only). 
-3. The vaccine must be delivered with a safe adjuvant. Alum, squalene, LPS or a mix thereof may suffice. Adjuvant selection is important in ensuring the optimal immune response.
+3. The vaccine must be delivered with a safe adjuvant. Alum, squalene, LPS or a mix thereof may suffice. Adjuvant selection is important in ensuring the optimal immune response. I lean towards Aluminium salts since it has the longest history and safety record.
 4. As this is an untested vaccine. It may not even produce immunity against anything, or worse it may have some terrible side effects such as a cytokine storm. It is also not very clear or known yet how long any induced immunity would last. 
 
 ## Questions: 
