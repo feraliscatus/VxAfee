@@ -1,5 +1,5 @@
 # VxAfee 
-## A hypothetical, open source, DIY-able personalized peptide vaccine design against 2019-nCoV during a Zombie apocalypse. It is not safe, ethical, and might possibly even be illegal, like jail-for-a-long-time-illegal, to synthesize and use a vaccine based on this design anyone. Do not do it. It might be interesting however to test this in-vitro against a cell culture to determine what type of response there is using an ELISPOT assay.
+## A hypothetical, open source, DIY-able personalized peptide vaccine design against 2019-nCoV during a Zombie apocalypse. It might be interesting to test this in-vitro against a cell culture to determine what type of response there is using an ELISPOT assay.
 
 ## Disclaimer: 
 Although it is believed peptide vaccines should be safer when produced correctly than traditional vaccines, synthesizing and using your own vaccine will be deadly or worse if you make a mistake or there is any contamination. Use common sense, if you haven't knowledge and experience in protein purification and synthesis do not attempt it. To be clear it would be foolish to attempt to make and use this vaccine because let's face it --  unless you are reading this from the Wuhan exotic Mcbat-meat-shop you likely aren't getting Coronavirus. 
@@ -13,7 +13,7 @@ MHC I is the molecule on the surface of all nucleated cells that presents fragme
 ## Peptide vaccines versus other types
 Read this article: https://www.frontiersin.org/articles/10.3389/fimmu.2014.00171/full
 
-## Hypothetical possible usage method (don't do it):
+## Hypothetical possible usage method (don't do it unless you have prior experience and resource and certainly not without checking applicable laws):
 
 1. Select the peptides to use in the vaccine by first determining the HLA-type of the individual to be vaccinated. A person's HLA-type can be found out by DNA testing.
 2. Synthesize the MHC I **and** MHC II peptides corresponding the the HLA type of the individual. MHC I and MHC II peptides are needed to ensure a Th1 immune response. This can be done for under $100 with the right equipment. There are many companies that can synthesize peptides cheaply (for research purposes only). Solid Phase Peptide Synthesis (SPPS) can be used make the peptides, an open source SPPS machine design exists.
