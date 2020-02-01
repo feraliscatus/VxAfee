@@ -1,5 +1,5 @@
 # VxAfee 
-## A hypothetical, open source, DIY-able personalized peptide vaccine design against 2019-nCoV. It might be interesting to test this in-vitro against a cell culture to determine what type of response there is using an ELISPOT assay.
+## An open source, DIY-able personalized peptide vaccine design against 2019-nCoV. It might be interesting to test this in-vitro against a cell culture to determine what type of response there is using an ELISPOT assay.
 
 ## Disclaimer: 
 Although it is believed peptide vaccines should be safer when produced correctly than traditional vaccines, synthesizing and using your own vaccine can be deadly or worse if you make a mistake. This design is intended for experienced companies, scientists, or organizations to implement with adequate resources and testing facilities.
