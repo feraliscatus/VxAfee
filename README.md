@@ -22,7 +22,7 @@ Read this article: https://www.frontiersin.org/articles/10.3389/fimmu.2014.00171
 
 ## Ways you can contribute:
 
-1. Add or suggest more HLA types!
+1. Add or suggest more HLA types! Rules: Make sure to use an accurate as possible mix of peer reviewed and recent algorithms to calculate the binding affinity. If selecting a polyprotein fragment, check that your 9mer won't get chopped.
 
 2. Next to each peptide sequence add the binding affinity and targeted viral gene .. for example for a peptide sequence in HLA-A\*02 you can add make it like this:
 ~~~~
@@ -31,6 +31,10 @@ GLMWLSYFI        | membrane glycoprotein | 4.2
 ~~~~
 
 3. Maybe add a dosage calculator ?
+
+4. Independently verify the immunogenicity and binding affinity using in-vitro assays. (Presumably ELISPOT, with PBMCs from the correct HLA type.)
+
+5. As more strains of the virus are sequenced, we need to make sure that most or all of the strains are covered but not at the cost of binding affinity.
 
 
 ## Questions: 
