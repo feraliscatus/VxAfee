@@ -36,6 +36,7 @@ GLMWLSYFI        | membrane glycoprotein | 4.2
 
 5. As more strains of the virus are sequenced, we need to make sure that most or all of the strains are covered but not at the cost of binding affinity.
 
-
 ## Questions: 
+Johan Sosa
+San Jose, CA
 johan@thefunquantum.com
