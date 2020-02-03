@@ -1,8 +1,8 @@
 # VxAfee 
-## An open source, DIY-able personalized peptide vaccine design against 2019-nCoV. It might be interesting to test this in-vitro against a cell culture to determine what type of response there is using an ELISPOT assay.
+## An open source personalized peptide vaccine being designed to work against 2019-nCoV. It might be interesting to test this in-vitro against a cell culture to determine what type of response there is using an ELISPOT assay. 
 
 ## Disclaimer: 
-Although it is believed peptide vaccines should be safer when produced correctly than traditional vaccines, synthesizing and using your own vaccine can be deadly or worse if you make a mistake. This design is intended for experienced companies, scientists, or organizations to implement with adequate resources and testing facilities.
+Although it is believed personalized peptide vaccines should be safer when produced correctly than traditional vaccines, independently synthesizing and using your own vaccine can be deadly or worse if you make a mistake. This design is intended for experienced companies, scientists, or organizations to implement with adequate resources and testing facilities.
 
 ## Background
 2019-nCoV, is an emerging Coronavirus related to SARS and MERS is currently (as of January 2020). It has a lower lethality rate than SARS but appears to be spreading because symptoms take longer to develop.
@@ -18,7 +18,7 @@ Read this article: https://www.frontiersin.org/articles/10.3389/fimmu.2014.00171
 1. Select the peptides to use in the vaccine by first determining the HLA-type of the individual to be vaccinated. A person's HLA-type can be found out by DNA testing.
 2. Synthesize the MHC I **and** MHC II peptides corresponding the the HLA type of the individual. MHC I and MHC II peptides are needed to ensure a Th1 immune response. This can be done for under $100 with the right equipment. There are many companies that can synthesize peptides cheaply (for research purposes only). Solid Phase Peptide Synthesis (SPPS) can be used make the peptides, an open source SPPS machine design exists.
 3. The vaccine must be delivered with a safe adjuvant. Alum, squalene, LPS or a mix thereof may suffice. Adjuvant selection is important in ensuring the optimal immune response. I lean towards Aluminium salts since it has the longest history and safety record.
-4. As this is an untested vaccine. It may not even produce immunity against anything, or worse it may have some terrible side effects such as a cytokine storm (although such a thing has never happened for a short peptide vaccine the best of my knowledge). It is also not very clear or known yet how long any induced immunity would last. 
+4. As this is an untested vaccine. It may not even produce immunity against anything. It may even have some terrible side effects such as a cytokine storm (although such a thing has never happened for a short peptide vaccine the best of my knowledge). It is also not very clear or predictable (yet) how long any induced immunity would last. 
 
 ## Ways you can contribute:
 
