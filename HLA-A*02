@@ -1,11 +1,11 @@
 Peptide sequence, Virus Gene, Affinity(nM)
 FTSDYYQLY, orfab1a polyprotein, 7.2
-FLAHIQWMV, 
-HSYFTSDYY, orfab1a polyprotein, 110
-FLLPSLATV,
-SMWALIISV,
+FLAHIQWMV, orfab1a polyprotein, 1.8
+HSYFTSDYY
+FLLPSLATV, orfab1a polyprotein, 1.8
+SMWALIISV, orfab1a polyprotein, 4.5
 YLYALVYFL, 
-ILFTRFFYV
+ILFTRFFYV, orfab1a polyprotein, 2.2
 YLDAYNMMI
 LLYDANYFL
 YLNTLTLAV
